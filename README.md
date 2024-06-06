@@ -21,4 +21,4 @@ The hospital landing page is a single-page application built using React. It inc
 ## The project is hosted on Vercel
 ## Live Demo
 
-Check out the live demo of the project [here](https://your-live-demo-link.com).
+Check out the live demo of the project [here](https://hospital-landing-page-ruby.vercel.app/).
